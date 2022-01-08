@@ -5,7 +5,7 @@
 
 Latest version: 0.1
 
-Maintained by: FesaDemini
+Maintained by: @FesaDemini
 
 ## 1. Buttons
 
